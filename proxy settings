@@ -1,0 +1,2 @@
+git config --global http.proxy http://proxy server address:port 
+https://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server 
